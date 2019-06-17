@@ -1,0 +1,16 @@
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\bin\Debug\HuPracticum5.exe.config
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\bin\Debug\HuPracticum5.exe
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\bin\Debug\HuPracticum5.pdb
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.csprojAssemblyReference.cache
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\MainWindow.g.cs
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\App.g.cs
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5_MarkupCompile.cache
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5_MarkupCompile.lref
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\MainWindow.baml
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.g.resources
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.Properties.Resources.resources
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.csproj.GenerateResource.cache
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.csproj.CoreCompileInputs.cache
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.exe
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.pdb
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\Page1.g.cs
