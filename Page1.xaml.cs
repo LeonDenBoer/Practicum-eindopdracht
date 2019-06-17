@@ -24,5 +24,26 @@ namespace HuPracticum5
         {
             InitializeComponent();
         }
+        private void Login(object sender, RoutedEventArgs e)
+        {
+            //if (!String.IsNullOrEmpty(UsernameTextbox.Text) && !String.IsNullOrEmpty(PasswordTextbox.Password))
+            //{
+            //    if (serviceClient.Login(UsernameTextbox.Text, PasswordTextbox.Password))
+             //   {
+            //        ShopPage shopPage = new ShopPage(UsernameTextbox.Text);
+            //        this.NavigationService.Navigate(shopPage);
+            //    }
+           //     else
+            //    {
+           //         StatusText.Content = "Customer not registered!";
+           //     }
+          //  }
+        }
+
+        private void GotoRegister(object sender, RoutedEventArgs e)
+        {
+            RegisterPage registerPage = new RegisterPage();
+            this.NavigationService.Navigate(registerPage);
+        }
     }
 }
