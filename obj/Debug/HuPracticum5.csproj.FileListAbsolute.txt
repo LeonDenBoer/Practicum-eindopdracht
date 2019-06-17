@@ -14,3 +14,4 @@ C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracti
 C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.exe
 C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\HuPracticum5.pdb
 C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\Page1.g.cs
+C:\Users\Leon den Boer\source\repos\HuPracticum5\HuPracticum5\obj\Debug\Page1.baml
