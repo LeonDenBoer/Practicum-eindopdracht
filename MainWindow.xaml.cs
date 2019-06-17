@@ -38,6 +38,8 @@ namespace HuPracticum5
             //         StatusText.Content = "Customer not registered!";
             //     }
             //  }
+            Taskmanager taskmanager = new Taskmanager();
+            this.NavigationService.Navigate(taskmanager);
         }
 
         private void GotoRegister(object sender, RoutedEventArgs e)
