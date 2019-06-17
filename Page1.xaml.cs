@@ -42,8 +42,8 @@ namespace HuPracticum5
 
         private void GotoRegister(object sender, RoutedEventArgs e)
         {
-            RegisterPage registerPage = new RegisterPage();
-            this.NavigationService.Navigate(registerPage);
+          //  RegisterPage registerPage = new RegisterPage();
+           // this.NavigationService.Navigate(registerPage);
         }
     }
 }
